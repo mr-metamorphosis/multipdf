@@ -1,0 +1,5 @@
+langchain_community
+langchain_anthropic
+langchain_openai
+PyPDF2
+streamlit
