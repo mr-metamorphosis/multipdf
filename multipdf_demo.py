@@ -7,12 +7,12 @@ Original file is located at
     https://colab.research.google.com/drive/1JpWL4D-rU-P0FdfaVh3ugOqDgSqFQUeY
 """
 
-!pip install streamlit
-!pip install PyPDF2
+# !pip install streamlit
+# !pip install PyPDF2
 
-!pip install langchain_community
-!pip install langchain_anthropic
-!pip install langchain_openai
+# !pip install langchain_community
+# !pip install langchain_anthropic
+# !pip install langchain_openai
 
 import streamlit as st
 from PyPDF2 import PdfReader
